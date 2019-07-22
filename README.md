@@ -3,7 +3,7 @@
 ## 1. Introduction
 • The Luminescence Dose and Age Calculator (LDAC) is a Microsoft Excel Visual Basic Application (VBA)-based package which can be used to assemble OSL age information and associated calculations. This platform applies statistical models to determine equivalent dose (De) values and render corresponding OSL age estimates. This software is fully applicable for De measurements by single grain and aliquot regeneration (SAR) and thermal transfer OSL (TT-OSL) protocols. It could also be used to calculate the dose rate and final buried age for geology/archaeology samples.
 
-• The LDAC is continuously being developed and improved. The most recent (July 22, 2019) distribution of LDAC can be downloaded above or at the webpage of Geoluminescence Dating Research Lab, Baylor University (https://www.baylor.edu/geosciences/index.php?id=962356). A training vedio can be viewed on Youtube https://www.youtube.com/watch?v=Of_feY1UeqU.
+• The LDAC is continuously being developed and improved. The most recent (*July 22, 2019*) distribution of LDAC can be downloaded above or at the webpage of Geoluminescence Dating Research Lab, Baylor University (https://www.baylor.edu/geosciences/index.php?id=962356). A training vedio can be viewed on Youtube https://www.youtube.com/watch?v=Of_feY1UeqU.
 
 • Note: Click the folder "*LDAC software (v1.0)*" and download the zip file "*LDAC software (v1.0).zip*". Then, unzip the download file and the “**LDAC (v1.0).xlsm**” will be found.
 
@@ -12,7 +12,7 @@
 ## 2. LDAC requirements
 • LDAC requires *Microsoft Excel 2010* or higher version (e.g., 2013, 2016, 2019) for *Windows* computers.
 
-•*Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
+• *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
 ## 3. First running the LDAC
 • Make sure the downloaded workbook’s name is “LDAC (v1.0).xlsm”. if not, rename it.
