@@ -9,9 +9,9 @@ LDAC requires *Microsoft Excel 2010* or higher version (e.g., 2013, 2016, 2019) 
 *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
 ## 3. Download the LDAC
-The **LDAC** is continuously being developed and improved. The most recent (*July 22, 2019*) distribution of LDAC can be downloaded above or at [Geoluminescence Dating Research Lab, Baylor University](https://www.baylor.edu/geosciences/index.php?id=962356). A [training vedio](https://www.youtube.com/watch?v=Of_feY1UeqU) can be viewed on Youtube.
+The **LDAC** is continuously being developed and improved. The most recent (*July 22, 2019*) distribution of LDAC can be downloaded [above (*LDAC software (v1.0)*)](https://github.com/lesshsroc/LDAC/tree/master/LDAC%20software%20(v1.0)) or at [Geoluminescence Dating Research Lab, Baylor University](https://www.baylor.edu/geosciences/index.php?id=962356). A [training video](https://www.youtube.com/watch?v=Of_feY1UeqU) can be viewed on Youtube.
 
-**Note: Click the folder "[*LDAC software (v1.0)*](https://github.com/lesshsroc/LDAC/tree/master/LDAC%20software%20(v1.0))" and download the zip file "*LDAC software (v1.0).zip*". Then, unzip the download file and the “*LDAC (v1.0).xlsm*” will be found**.
+**Note: unzip the download zip file "*LDAC software (v1.0).zip*" and the “*LDAC (v1.0).xlsm*” will be found**.
 
 ## 4. Getting started
 Make sure the downloaded workbook’s name is “*LDAC (v1.0).xlsm*”. if not, rename it.
