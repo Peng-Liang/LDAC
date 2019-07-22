@@ -14,18 +14,17 @@ The **LDAC** is continuously being developed and improved. The most recent (*Jul
 **Note: Click the folder "[*LDAC software (v1.0)*](https://github.com/lesshsroc/LDAC/tree/master/LDAC%20software%20(v1.0))" and download the zip file "*LDAC software (v1.0).zip*". Then, unzip the download file and the “*LDAC (v1.0).xlsm*” will be found**.
 
 ## 4. Getting started
-Make sure the downloaded workbook’s name is “LDAC (v1.0).xlsm”. if not, rename it.
+Make sure the downloaded workbook’s name is “*LDAC (v1.0).xlsm*”. if not, rename it.
 
 Open the workbook just downloaded from the internet. A warning message will show “*PROTECTED VIEW Be careful-files from the internet can contain viruses. Unless you need to edit, it’s safer to stay in Protect-ed view*”. Click “**Enable Editing**” to use this program. 
 
 On first running, the program **LDAC** might appear the following message “*SECURITY 
 WARNING Some active content has been disabled. Click for more details*.” This is a warning message for using *Macros* and command buttons (ActiveX controls) of the Excel workbook. Click “**Enable Content**”. 
 
-If this warning message cannot be displayed and any button on the worksheet is not responding, check the macro settings in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Set-tings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
+If this warning message cannot be displayed and any button on the worksheet is not responding, check the *macro settings* in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Set-tings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
 
 ## 5. Feedback
-Although we have tried this program in lots of computers with different language version of Win-dows and Microsoft Excels, we believe that users may still encounter some unknown errors and bugs. 
+Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
 
 Any bug-reports, suggestions, and even requirements for further developing the LDAC are warmly welcome. Please contact Peng Liang (Peng_Liang1@Baylor.edu; LiangPeng2012@live.cn) or Steven L. Forman (Steven_Forman@Baylor.edu). We will get back to you as soon as possible.
-
 ![LDAC-Logo](https://github.com/lesshsroc/LDAC/blob/master/ICON/LDAC_Logo.jpg)
