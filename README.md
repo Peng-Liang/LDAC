@@ -9,7 +9,7 @@ LDAC requires *Microsoft Excel 2010* or higher version (e.g., 2013, 2016, 2019) 
 *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
 ## 3. Download the LDAC ![size](https://img.shields.io/badge/Software%20size-4.96M-blue.svg)
-The **LDAC** is continuously being developed and improved. The most recent (*July 22, 2019*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.0)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases) or at [Geoluminescence Dating Research Lab, Baylor University](https://www.baylor.edu/geosciences/index.php?id=955927). A [training video](https://www.youtube.com/watch?v=Of_feY1UeqU) can be viewed on Youtube.
+The **LDAC** is continuously being developed and improved. The most recent (*July 22, 2019*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.0)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases) or at [Geoluminescence Dating Research Lab, Baylor University](https://www.baylor.edu/geosciences/index.php?id=955927). 
 
 **Note: Extract the downloaded zip file** "*LDAC.software.v1.0.zip*" **and the** “*LDAC (v1.0).xlsm*” **will be found**.
 
@@ -23,9 +23,11 @@ WARNING Some active content has been disabled. Click for more details*.” This 
 
 If this warning message cannot be displayed and any button on the worksheet is not responding, check the *macro settings* in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Settings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
 
+A [training video](https://youtu.be/Of_feY1UeqU) can be viewed on Youtube.
+<a href="https://youtu.be/Of_feY1UeqU" target="_blank"><img src="https://github.com/lesshsroc/LDAC/blob/master/ICON/Video_Still.png" alt="LDACTrain" width="600" height="337" border="30" /></a>
+
+
 ## 5. Feedback
 Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
 
 Any bug-reports, suggestions, and even requirements for further developing the LDAC are warmly welcome. Please contact Peng Liang (Peng_Liang1@Baylor.edu; LiangPeng2012@live.cn) or Steven L. Forman (Steven_Forman@Baylor.edu). We will get back to you as soon as possible.
-
-![LDAC-Logo](https://github.com/lesshsroc/LDAC/blob/master/ICON/LDAC_Logo.png)
