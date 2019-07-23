@@ -1,6 +1,5 @@
-![License](https://img.shields.io/github/license/lesshsroc/LDAC.svg)
 # Luminescence Dose and Age Calculator (LDAC v1.0)
-
+![License](https://img.shields.io/github/license/lesshsroc/LDAC.svg) ![Star](https://img.shields.io/github/stars/lesshsroc/LDAC.svg?style=plastic)
 ## 1. Introduction
 The **Luminescence Dose and Age Calculator (LDAC)** is a *Microsoft Excel Visual Basic Application* (VBA)-based package which can be used to assemble OSL age information and associated calculations. This platform applies statistical models to determine equivalent dose (De) values and render corresponding OSL age estimates. This software is fully applicable for De measurements by single grain and aliquot regeneration (SAR) and thermal transfer OSL (TT-OSL) protocols. It could also be used to calculate the dose rate and final buried age for geology/archaeology samples.
 
