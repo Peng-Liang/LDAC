@@ -21,7 +21,7 @@ Open the workbook just downloaded from the internet. A warning message will show
 On first running, the program **LDAC** might appear the following message “*SECURITY 
 WARNING Some active content has been disabled. Click for more details*.” This is a warning message for using *Macros* and command buttons (ActiveX controls) of the Excel workbook. Click “**Enable Content**”. 
 
-If this warning message cannot be displayed and any button on the worksheet is not responding, check the *macro settings* in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Set-tings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
+If this warning message cannot be displayed and any button on the worksheet is not responding, check the *macro settings* in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Settings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
 
 ## 5. Feedback
 Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
