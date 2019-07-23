@@ -1,3 +1,4 @@
+![License](https://img.shields.io/github/license/lesshsroc/LDAC.svg)
 # Luminescence Dose and Age Calculator (LDAC v1.0)
 
 ## 1. Introduction
