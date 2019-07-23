@@ -27,4 +27,4 @@ If this warning message cannot be displayed and any button on the worksheet is n
 Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
 
 Any bug-reports, suggestions, and even requirements for further developing the LDAC are warmly welcome. Please contact Peng Liang (Peng_Liang1@Baylor.edu; LiangPeng2012@live.cn) or Steven L. Forman (Steven_Forman@Baylor.edu). We will get back to you as soon as possible.
-![LDAC-Logo](https://github.com/lesshsroc/LDAC/blob/master/ICON/LDAC_Logo.jpg)
+![LDAC-Logo](https://github.com/lesshsroc/LDAC/blob/master/ICON/LDAC_Logo.png)
