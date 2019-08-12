@@ -14,6 +14,9 @@ The **LDAC** is continuously being developed and improved. The most recent (*Jul
 **Note: Extract the downloaded zip file** "*LDAC.software.v1.0.zip*" **and the** “*LDAC (v1.0).xlsm*” **will be found**.
 
 ## 4. Getting started
+
+**Note: The protection password in LDAC is “;”, which is used to protect the worksheet from unintentional modifications.**
+
 Make sure the downloaded workbook’s name is “*LDAC (v1.0).xlsm*”. if not, rename it.
 
 Open the workbook just downloaded from the internet. A warning message will show “*PROTECTED VIEW Be careful-files from the internet can contain viruses. Unless you need to edit, it’s safer to stay in Protect-ed view*”. Click “**Enable Editing**” to use this program. 
