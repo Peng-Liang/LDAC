@@ -6,7 +6,7 @@ The **Luminescence Dose and Age Calculator (LDAC)** is a *Microsoft Excel Visual
 ## 2. Citation
 Liang, P., Forman, S.L., 2019. LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations. *Ancient TL* 37 (2), 21-40. [*[Full Text](http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf)*]  Citation:[*[BibTex](http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_citation.bib)*]  [*[RIS](https://github.com/Peng-Liang/LDAC/blob/master/ICON/Liang_AncientTL.RIS)*]
 
-<a href="https://github.com/Peng-Liang/LDAC/blob/master/ICON/Liang_AncientTL.RIS" target="_blank">RIS</a>
+<a href="/ICON/Liang_AncientTL.RIS" target="_blank">RIS</a>
 
 <a href="http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf" target="_blank"><img src="https://github.com/Peng-Liang/LDAC/blob/master/ICON/Picture1.png" alt="LDAC_Ancient TL" width="800" /></a>
 
