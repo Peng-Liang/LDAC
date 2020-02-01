@@ -30,7 +30,7 @@ A [training video](https://youtu.be/Of_feY1UeqU) can be viewed on Youtube.
 <a href="https://youtu.be/Of_feY1UeqU" target="_blank"><img src="https://github.com/lesshsroc/LDAC/blob/master/ICON/Video_Still.png" alt="LDACTrain" width="600" height="337" border="30" /></a>
 
 ## 5. Citations
-Liang, P., Forman, S.L., 2020. LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations. *Ancient TL* 37 (2), 21-40.
+Liang, P., Forman, S.L., 2019. LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations. *Ancient TL* 37 (2), 21-40. [Full Text](http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf)
 
 ## 6. Feedback
 Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
