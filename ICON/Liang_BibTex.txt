@@ -1,0 +1,12 @@
+﻿@article{RN2852,
+   author = {Liang, Peng and Forman, Steven L.},
+   title = {LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations},
+   journal = {Ancient TL},
+   volume = {37},
+   number = {2},
+   pages = {21-40},
+   url = {http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf},
+   year = {2019},
+   type = {Journal Article}
+}
+
