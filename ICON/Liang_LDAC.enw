@@ -1,0 +1,25 @@
+﻿%0 Journal Article
+%A Liang, Peng
+%A Forman, Steven L.
+%D 2019
+%T LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations
+%B Ancient TL
+%V 37
+%N 2
+%P 21-40
+%& 21
+%8 2019-12-31
+%! LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations
+%K OSL dating
+equivalent dose
+statistical age models
+dose rate
+LDAC
+Microsoft VBA
+%X In the past 20 years optically stimulated luminescence (OSL) dating has advanced as a well-established geochronometer for dating Quaternary sediments. Currently, there are powerful calculation platforms for specific calculations, such as the R package 'Luminescence' and the web-based dose rate calculator DRAC. However, the community lacks a self-contained computational synthesis that can process equivalent dose and dose-rate calculations to avoid unnecessary data exchange among multiple-platforms that may inadvertently propagate errors. Thus, we have developed a unified calculation program that maintains, archives and synthesizes basic OSL data, applies appropriate statistical models, and dose rate parameters in an updatable platform, to render statistically significant OSL ages. In this paper, the Luminescence Dose and Age Calculator (LDAC) written in Microsoft Visual Basic for Application is presented that can compute final equivalent dose values, the environmental dose rate, and render a final burial OSL age. LDAC incorporates statistical parameters, visual presentations of the equivalent dose distribution, applies well-developed statistical age models, and uses up-to-date dose rate parameters into a computational system using fifteen linked functional routines. Most notably, a Markov chain Monte Carlo slice sampling method was employed to estimate the parameters of the minimum and maximum age models. Also, the statistical basis for error propagation of dose rate and final age was improved. The program is designed to be user-friendly with operations and data entry conveniently executed through a graphical user interface. The operations and calculations are presented with transparency and flexibility, allowing for modification of given values, constants, and algorithms. This computational platform is easily loaded on to a PC and can be used in a Windows environment equipped with Microsoft Excel 2010 or later. The latest version of LDAC can be downloaded along with a user manual at https://github.com/Peng-Liang/LDAC.
+%U http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf
+%> internal-pdf://0628175004/Liang-2020-Ancient TL.pdf
+%G English
+
+
+
