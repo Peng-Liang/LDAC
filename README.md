@@ -4,7 +4,7 @@
 The **Luminescence Dose and Age Calculator (LDAC)** is a *Microsoft Excel Visual Basic for Application (VBA)*-based package which can be used to assemble OSL age information and associated calculations. This platform applies statistical models to determine equivalent dose (De) values and render corresponding OSL age estimates. This software is fully applicable for De measurements by single grain and aliquot regeneration (SAR) and thermal transfer OSL (TT-OSL) protocols. It could also be used to calculate the dose rate and final buried age for geology/archaeology samples.
 
 ## 2. Citations
-Liang, P., Forman, S.L., 2019. LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations. *Ancient TL* 37 (2), 21-40. ([Full Text](http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf))  ([Cite])
+Liang, P., Forman, S.L., 2019. LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations. *Ancient TL* 37 (2), 21-40. ([Full Text](http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf))  ([Cite](ICON/Liang_BibTex.txt))
 
 ## 3. LDAC requirements
 LDAC requires *Microsoft Excel 2010* or higher version (e.g., 2013, 2016, 2019) for *Windows* computers. *[Microsoft Excel 2019](https://products.office.com/en-US/get-started-with-office-2019?&OCID=AID2000136_SEM_iNi8NhPm&MarinID=siNi8NhPm%7C340667806722%7Cmicrosoft%20office%202019%7Ce%7Cc%7C%7C54569958854%7Caud-473968998473:kwd-331146748204&lnkd=Google_O365SMB_NI&gclid=Cj0KCQjwvdXpBRCoARIsAMJSKqLLubP-daYYm88zMR_H2RSsXydSHLheCSbXj7UGBKynT_lqAtzqqlQaAuJ-EALw_wcB)* is highly recommended.
