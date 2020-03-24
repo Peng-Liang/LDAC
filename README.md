@@ -39,7 +39,7 @@ A [training video](https://youtu.be/Of_feY1UeqU) can be viewed on Youtube.
 ## 6. Feedback
 Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
 
-Any bug-reports, suggestions, and even requirements for further developing the LDAC are warmly welcome. Please contact Peng Liang (Peng_Liang1@Baylor.edu; LiangPeng2012@live.cn) or Steven L. Forman (Steven_Forman@Baylor.edu). We will get back to you as soon as possible.
+Any bug-reports, suggestions, and even requirements for further developing the LDAC are warmly welcome. Please contact Peng Liang (PLiang@zju.edu.cn; LiangPeng2012@live.cn) or Steven L. Forman (Steven_Forman@Baylor.edu). We will get back to you as soon as possible.
 
 ## 7. Acknowledgments
 This work was supported by the China Scholarship Council (awarded to P.L.), the National Natural Science Foundation of China (#41430532), the State Scientific Survey Project of China (#2017FY101001), USA National Science Foundation Award #GSS-1660230 (SLF), National Geographic Society Award #9990-16 (SLF), and the Geoluminescence Dating Research Laboratory at Baylor University, USA. Sincere thanks are extended to Liliana Marín for helpful discussions and suggestions.
