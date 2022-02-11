@@ -16,7 +16,7 @@
 * *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
 ## 4. Download the LDAC ![size](https://img.shields.io/badge/Software%20size-4.96M-blue.svg)
-* The **LDAC** is continuously being developed and improved. The most recent (*December 16, 2019*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.0)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases) or at [Geoluminescence Dating Research Lab, Baylor University](https://www.baylor.edu/geosciences/index.php?id=955927). 
+* The **LDAC** is continuously being developed and improved. The most recent (*December 16, 2019*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.0)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases). 
 
 * **Note: Extract the downloaded zip file** "*LDAC.software.v1.0.zip*" **and the** “*LDAC (v1.0).xlsm*” **will be found**.
 
@@ -54,4 +54,4 @@ WARNING Some active content has been disabled. Click for more details*.” This 
 * Bollinger, L., Klinger, Y., Forman, S. L., Chimed, O., Bayasgalan, A., Munkhuu, U., ... & Sodnomsambuu, D. (2021). [25,000 Years long seismic cycle in a slow deforming continental region of Mongolia](https://doi.org/10.1038/s41598-021-97167-w). Scientific reports, 11(1), 17855.
 * Abbas, W., Zhang, J., Tsukamoto, S., Ali, S., Frechen, M., & Reicherter, K. (2022). [Pleistocene-Holocene deformation and seismic history of the Kalabagh Fault in Pakistan using OSL and post-IR IRSL dating](https://doi.org/10.1016/j.quaint.2022.01.007). Quaternary International.
 
-([updated 2/11/2022])
+([updated 2/11/2022]())
