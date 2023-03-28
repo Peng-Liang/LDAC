@@ -3,6 +3,8 @@
 ## 1. Introduction
 * The **Luminescence Dose and Age Calculator (LDAC)** is a *Microsoft Excel Visual Basic for Application (VBA)*-based package which can be used to assemble OSL age information and associated calculations. This platform applies statistical models to determine equivalent dose (De) values and render corresponding OSL age estimates. This software is fully applicable for De measurements by single grain and aliquot regeneration (SAR) and thermal transfer OSL (TT-OSL) protocols. It could also be used to calculate the dose rate and final buried age for geology/archaeology samples.
 
+*The most RECENT version (**LDAC v1.2**) has been released on *Mar 28, 2023*.
+
 ## 2. Citation
 * Liang, P., Forman, S.L., 2019. [LDAC: An Excel-based program for luminescence equivalent dose and burial age calculations](http://ancienttl.org/ATL_37-2_2019/ATL_37-2_Liang_p21-40.pdf). *Ancient TL* 37 (2), 21-40. 
 
@@ -15,10 +17,14 @@
 
 * *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
-## 4. Download the LDAC ![size](https://img.shields.io/badge/Software%20size-4.96M-blue.svg)
-* The **LDAC** is continuously being developed and improved. The most recent (*Mar 28, 2023*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.2)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases). 
+## 4. Download the LDAC ![size](https://img.shields.io/badge/Software%20size-6.89M-blue.svg)
+* The **LDAC** is continuously being developed and improved. The most recent (*Mar 28, 2023*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.2)](https://img.shields.io/badge/LDAC%20software-v1.2-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases). 
 
 * **Note: Extract the downloaded zip file** "*LDAC.software.v1.2.zip*" **and the** “*LDAC (v1.2).xlsm*” **will be found**.
+
+* --------New features (LDAC v1.2)-----------
+* (1) Calculate dose rate in batches
+* (2) Add an option for inputting radionuclides in Bq/kg.
 
 ## 5. Getting started
 
