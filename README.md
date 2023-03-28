@@ -1,5 +1,5 @@
-# Luminescence Dose and Age Calculator (LDAC v1.0) <img width=100px src="https://github.com/lesshsroc/LDAC/blob/master/ICON/Small-Logo.png" align="right" />
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/lesshsroc/LDAC/blob/master/LICENSE) ![Star](https://img.shields.io/github/stars/lesshsroc/LDAC.svg) ![commit](https://img.shields.io/github/commits-since/lesshsroc/LDAC/v1.0.svg) [![downloads](https://img.shields.io/github/downloads/lesshsroc/LDAC/total.svg)](https://github.com/lesshsroc/LDAC/releases) [![language](https://img.shields.io/badge/Language-VBA-orange.svg)](https://docs.microsoft.com/en-us/office/vba/api/overview/excel) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) [![version](https://img.shields.io/badge/version-1.0.1-blue)](https://github.com/lesshsroc/LDAC/releases)
+# Luminescence Dose and Age Calculator (LDAC v1.2) <img width=100px src="https://github.com/lesshsroc/LDAC/blob/master/ICON/Small-Logo.png" align="right" />
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/lesshsroc/LDAC/blob/master/LICENSE) ![Star](https://img.shields.io/github/stars/lesshsroc/LDAC.svg) ![commit](https://img.shields.io/github/commits-since/lesshsroc/LDAC/v1.2.svg) [![downloads](https://img.shields.io/github/downloads/lesshsroc/LDAC/total.svg)](https://github.com/lesshsroc/LDAC/releases) [![language](https://img.shields.io/badge/Language-VBA-orange.svg)](https://docs.microsoft.com/en-us/office/vba/api/overview/excel) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) [![version](https://img.shields.io/badge/version-1.2-blue)](https://github.com/lesshsroc/LDAC/releases)
 ## 1. Introduction
 * The **Luminescence Dose and Age Calculator (LDAC)** is a *Microsoft Excel Visual Basic for Application (VBA)*-based package which can be used to assemble OSL age information and associated calculations. This platform applies statistical models to determine equivalent dose (De) values and render corresponding OSL age estimates. This software is fully applicable for De measurements by single grain and aliquot regeneration (SAR) and thermal transfer OSL (TT-OSL) protocols. It could also be used to calculate the dose rate and final buried age for geology/archaeology samples.
 
@@ -16,15 +16,15 @@
 * *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
 ## 4. Download the LDAC ![size](https://img.shields.io/badge/Software%20size-4.96M-blue.svg)
-* The **LDAC** is continuously being developed and improved. The most recent (*December 16, 2019*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.0)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases). 
+* The **LDAC** is continuously being developed and improved. The most recent (*Mar 28, 2023*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.2)](https://img.shields.io/badge/LDAC%20software-v1.0-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases). 
 
-* **Note: Extract the downloaded zip file** "*LDAC.software.v1.0.zip*" **and the** “*LDAC (v1.0).xlsm*” **will be found**.
+* **Note: Extract the downloaded zip file** "*LDAC.software.v1.2.zip*" **and the** “*LDAC (v1.2).xlsm*” **will be found**.
 
 ## 5. Getting started
 
 * **Note: The protection password in LDAC is “;”, which is used to protect the worksheet from unintentional modifications.**
 
-* Make sure the downloaded workbook’s name is “*LDAC (v1.0).xlsm*”. if not, rename it.
+* Make sure the downloaded workbook’s name is “*LDAC (v1.2).xlsm*”. if not, rename it.
 
 * Open the workbook just downloaded from the internet. A warning message will show “*PROTECTED VIEW Be careful-files from the internet can contain viruses. Unless you need to edit, it’s safer to stay in Protect-ed view*”. Click “**Enable Editing**” to use this program. 
 
@@ -54,4 +54,4 @@ WARNING Some active content has been disabled. Click for more details*.” This 
 * Bollinger, L., Klinger, Y., Forman, S. L., Chimed, O., Bayasgalan, A., Munkhuu, U., ... & Sodnomsambuu, D. (2021). [25,000 Years long seismic cycle in a slow deforming continental region of Mongolia](https://doi.org/10.1038/s41598-021-97167-w). Scientific reports, 11(1), 17855.
 * Abbas, W., Zhang, J., Tsukamoto, S., Ali, S., Frechen, M., & Reicherter, K. (2022). [Pleistocene-Holocene deformation and seismic history of the Kalabagh Fault in Pakistan using OSL and post-IR IRSL dating](https://doi.org/10.1016/j.quaint.2022.01.007). Quaternary International.
 
-*(updated 2/11/2022 by P.L.)*
+*(updated 3/28/2023 by P.L.)*
