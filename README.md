@@ -1,5 +1,5 @@
 # Luminescence Dose and Age Calculator (LDAC v1.2) <img width=100px src="https://github.com/lesshsroc/LDAC/blob/master/ICON/Small-Logo.png" align="right" />
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/lesshsroc/LDAC/blob/master/LICENSE) ![Star](https://img.shields.io/github/stars/lesshsroc/LDAC.svg) ![commit](https://img.shields.io/github/commits-since/lesshsroc/LDAC/v1.2.svg) [![downloads](https://img.shields.io/github/downloads/lesshsroc/LDAC/total.svg)](https://github.com/lesshsroc/LDAC/releases) [![language](https://img.shields.io/badge/Language-VBA-orange.svg)](https://docs.microsoft.com/en-us/office/vba/api/overview/excel) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) [![version](https://img.shields.io/badge/version-1.2-blue)](https://github.com/lesshsroc/LDAC/releases)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Peng-Liang/LDAC/blob/master/LICENSE) ![Star](https://img.shields.io/github/stars/Peng-Liang/LDAC.svg) ![commit](https://img.shields.io/github/commits-since/Peng-Liang/LDAC/v1.2.svg) [![downloads](https://img.shields.io/github/downloads/Peng-Liang/LDAC/total.svg)](https://github.com/Peng-Liang/LDAC/releases) [![language](https://img.shields.io/badge/Language-VBA-orange.svg)](https://docs.microsoft.com/en-us/office/vba/api/overview/excel) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) [![version](https://img.shields.io/badge/version-1.2-blue)](https://github.com/Peng-Liang/LDAC/releases)
 ## 1. Introduction
 * The **Luminescence Dose and Age Calculator (LDAC)** is a *Microsoft Excel Visual Basic for Application (VBA)*-based package which can be used to assemble OSL age information and associated calculations. This platform applies statistical models to determine equivalent dose (De) values and render corresponding OSL age estimates. This software is fully applicable for De measurements by single grain and aliquot regeneration (SAR) and thermal transfer OSL (TT-OSL) protocols. It could also be used to calculate the dose rate and final buried age for geology/archaeology samples.
 
@@ -19,7 +19,7 @@
 * *Macintosh Excel* can be used to preview the data, but the *Macros* cannot be run. A Windows-enabling program (e.g., *Fusion, Parallels*) is to run **LDAC**.
 
 ## 4. Download the LDAC ![size](https://img.shields.io/badge/Software%20size-6.89M-blue.svg)
-* The **LDAC** is continuously being developed and improved. The most recent (*Mar 28, 2023*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.2)](https://img.shields.io/badge/LDAC%20software-v1.2-brightgreen.svg)*)](https://github.com/lesshsroc/LDAC/releases). 
+* The **LDAC** is continuously being developed and improved. The most recent (*Mar 28, 2023*) distribution of LDAC can be downloaded [here (*![LDAC software (v1.2)](https://img.shields.io/badge/LDAC%20software-v1.2-brightgreen.svg)*)](https://github.com/Peng-Liang/LDAC/releases). 
 
 * **Note: Extract the downloaded zip file** "*LDAC.software.v1.2.zip*" **and the** “*LDAC (v1.2).xlsm*” **will be found**.
 
@@ -41,7 +41,7 @@ WARNING Some active content has been disabled. Click for more details*.” This 
 * If this warning message cannot be displayed and any button on the worksheet does not respond, check the *macro settings* in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Settings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
 
 * A [training video](https://youtu.be/Of_feY1UeqU) can be viewed on Youtube.
-<a href="https://youtu.be/Of_feY1UeqU" target="_blank"><img src="https://github.com/lesshsroc/LDAC/blob/master/ICON/Video_Still.png" alt="LDACTrain" width="600" height="337" border="30" /></a>
+<a href="https://youtu.be/Of_feY1UeqU" target="_blank"><img src="https://github.com/Peng-Liang/LDAC/blob/master/ICON/Video_Still.png" alt="LDACTrain" width="600" height="337" border="30" /></a>
 
 ## 6. Feedback
 * Although we have tried this program in lots of computers with different language version of *Windows* and *Microsoft Excels*, we believe that users may still encounter some unknown errors and bugs. 
