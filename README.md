@@ -41,6 +41,7 @@ WARNING Some active content has been disabled. Click for more details*.” This 
 * If this warning message cannot be displayed and any button on the worksheet does not respond, check the *macro settings* in the Trust Center (“*Excel>File>Options>Trust Center>Trust Center Settings>Macro settings*”). [Enabling or disabling Macros in Excel refer to the support document from the Microsoft website](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
 
 * A [training video](https://youtu.be/Of_feY1UeqU) can be viewed on Youtube.
+
 <a href="https://youtu.be/Of_feY1UeqU" target="_blank"><img src="https://github.com/Peng-Liang/LDAC/blob/master/ICON/Video_Still.png" alt="LDACTrain" width="600" height="337" border="30" /></a>
 
 ## 6. Feedback
